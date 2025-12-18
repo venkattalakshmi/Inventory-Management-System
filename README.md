@@ -30,7 +30,6 @@ The **Inventory Management System (IMS)** is a modern web-based application desi
 ---
 
 ## Project Structure
-
 Inventory-Management-System/
 ├── frontend/
 ├── backend/
